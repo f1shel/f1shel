@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I am a CS student from China
 
 <!--
 **f1shel/f1shel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 | ---- | ---- | ---- |
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=f1shel.visitor-badge)
+
+Plus, I am big fan of Japanese animation. Following is a picture taken from *`DARLING in the FRANXX`*, one of my favorite animations.
+
+![](https://github.com/f1shel/f1shel/blob/main/assets/franxx_1.jpg)
