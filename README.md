@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://github-readme-stats.vercel.app/api?username=f1shel&show_icons=true&hide_border=true&count_private=true&theme=flag-india&layout=compact)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=f1shel&layout=compact&hide_border=true&count_private=true&theme=flag-india)]()
+[![](https://github-readme-stats.vercel.app/api?username=f1shel&show_icons=true&hide_border=true&count_private=true&theme=flag-india&layout=compact)]() [![](https://github-readme-stats.vercel.app/api/top-langs/?username=f1shel&layout=compact&hide=html,css,less,ejs,javascript,scss&hide_border=true&count_private=true&theme=flag-india)]()
 
 🌱 I entered Mixed Class of [Chu Kochen honors college](http://ckc.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/) in 2018. ⚡ My major is computer science and my interests include computer grahics, computer vision, game programming and deep learning. 🔭 I am currently working on appearance modeling and deep learning topics with Prof. [Hongzhi Wu](http://www.cad.zju.edu.cn/home/hwu/).
 
