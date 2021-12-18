@@ -7,10 +7,11 @@ I entered Mixed Class of [Chu Kochen honors college](http://ckc.zju.edu.cn/), [Z
 Plus, I am big fan of Japanese ACG culture. Following are pictures taken from *`Sword Art Online`*, one of my favourite animations.
 
 <div>
-  <img width=16.0% src="assets/aincrad.jpg"/>
-  <img width=16.0% src="assets/fairydance.jpg"/>
-  <img width=16.0% src="assets/calibur.jpg"/>
-  <img width=16.0% src="assets/mothers.jpg"/>
-  <img width=16.0% src="assets/alicization05.jpg"/>
-  <img width=16.0% src="assets/progressive03.jpg"/>
+  <img width=13.8% src="assets/aincrad.jpg"/>
+  <img width=13.8% src="assets/fairydance.jpg"/>
+  <img width=13.8% src="assets/calibur.jpg"/>
+  <img width=13.8% src="assets/mothers.jpg"/>
+  <img width=13.8% src="assets/movie.jpg"/>
+  <img width=13.8% src="assets/alicization05.jpg"/>
+  <img width=13.8% src="assets/progressive03.jpg"/>
 </div>
