@@ -5,7 +5,7 @@
 I entered Mixed Class of Chu Kochen honors college, Zhejiang University in 2018. My major is computer science and my interests include computer grahics, computer vision, game programming and deep learning. I am currently working on appearance modeling and deep learning topics with Prof. Hongzhi Wu.
 
 Plus, I am big fan of Japanese ACG culture. Following are some of my favourite animations.
-
+<!--
 <div>
   <img width=10.7% src="assets/whitealbum2.jpg"/>
   <img width=10.7% src="assets/zuorizhige.jpg"/>
@@ -26,3 +26,4 @@ Plus, I am big fan of Japanese ACG culture. Following are some of my favourite a
   <img width=10.7% src="assets/eva.jpg"/>
   <img width=10.7% src="assets/fateubw.jpg"/>
 </div>
+-->
